@@ -22,3 +22,11 @@ I have worked with Git, Azure Repos, Azure DevOps, and Podman.
 ## Local Git Practice
 
 I am learning Git commands using PowerShell.
+
+## TPM Learning Goals
+
+- Practise Git branching and pull requests
+- Understand code review and merge workflows
+- Learn CI/CD pipeline fundamentals
+- Track delivery changes and risks
+
