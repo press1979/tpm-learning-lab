@@ -29,4 +29,6 @@ I am learning Git commands using PowerShell.
 - Understand code review and merge workflows
 - Learn CI/CD pipeline fundamentals
 - Track delivery milestones and project risks
+- Track quality metrics and engineering risks
+
 
