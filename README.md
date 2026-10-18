@@ -1,4 +1,3 @@
-
 # TPM Learning Lab
 
 This repository is for learning Git, GitHub, and release engineering.
@@ -13,3 +12,9 @@ This repository is for learning Git, GitHub, and release engineering.
 ## My Background
 
 I have worked with Git, Azure Repos, Azure DevOps, and Podman.
+
+## Release Engineering Practice
+
+- Understand build and test workflows
+- Learn release approvals and artifact management
+- Practise pull requests and code reviews
