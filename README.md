@@ -28,5 +28,5 @@ I am learning Git commands using PowerShell.
 - Practise Git branching and pull requests
 - Understand code review and merge workflows
 - Learn CI/CD pipeline fundamentals
-- Track delivery changes and risks
+- Track quality metrics and engineering risks
 
